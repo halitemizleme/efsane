@@ -1,6 +1,6 @@
 # Site settings
-title:
-email:
+title: Efsane Halı Temizleme
+email: adhisarlar@yahoo.com.tr
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,17 +9,15 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
-twitter_username:
-github_username:
-address:
+owner: İlker İspir
+email: adhisarlar@yahoo.com.tr
+facebook_username: adhisarlar
+address: 662/3 Sokak No:7 Buca/İZMİR
   - line:
   - line:
   # Feel free to add more lines here 
-telephone:
-copyright:
+telephone: +905300417239
+copyright: Efsane Halı Temizleme
 
 # API settings
 google_api_key:
