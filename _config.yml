@@ -2,20 +2,20 @@
 title: Efsane Halı Temizleme
 email: adhisarlar@yahoo.com.tr
 description: Halı yıkama bizim işimiz
-baseurl: "/efsane"
-url: "https://halitemizleme.github.io"
+baseurl: /efsane
+url: https://halitemizleme.github.io
 
 # User setting
-owner: "İlker İspir"
-email: "adhisarlar@yahoo.com.tr"
-facebook_username: "adhisarlar"
-address: "662/3 Sokak No:7 Buca/İZMİR"
+owner: İlker İspir
+email: adhisarlar@yahoo.com.tr
+facebook_username: adhisarlar
+address: 662/3 Sokak No:7 Buca/İZMİR
   # Feel free to add more lines here 
-telephone: "+905300417239"
-copyright: "Efsane Halı Temizleme"
+telephone: +905300417239
+copyright: Efsane Halı Temizleme
 
 # API settings
-google_api_key: "AIzaSyBYs5Dr2nRJHd8ZVhglRlPnT0JJjoZZL6I"
+google_api_key: AIzaSyBYs5Dr2nRJHd8ZVhglRlPnT0JJjoZZL6I
 
 # Build settings
 markdown: kramdown
